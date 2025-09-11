@@ -1,29 +1,36 @@
-# 👋 Hi, I'm NBK
+# Hi, I'm NBK 👋
 
-**Software Engineer · Polyglot Coder · Always Exploring New Tech**
+**Senior Software Engineer | Laravel & TALL Stack Specialist | Polyglot Developer**
 
----
+I am a results-oriented Software Engineer with a deep expertise in the Laravel ecosystem. My passion is building modern, dynamic, and scalable web applications, with a special focus on the **TALL (Tailwind CSS, Alpine.js, Laravel, Livewire)** stack.
 
-🌐 Open to new roles and collaborations  
-💻 Fluent in Python, NodeJS, and PHP  
-🧑‍💻 Passionate about building robust, scalable, and elegant software solutions  
-🔄 Polyglot by choice – I believe the best tools transcend language boundaries
+While PHP and Laravel are my primary tools, I am a polyglot developer at heart, fluent in Python and Node.js. I believe in a technology-agnostic approach, selecting the best tool for each unique challenge to build robust, elegant, and maintainable solutions.
 
 ---
 
-## 🚀 About Me
+### Core Competencies
 
-I thrive on variety, challenge, and continuous learning. Whether it's scripting rapid prototypes in Python, scaling backends with NodeJS, or building web apps in PHP, I love exploring the strengths of every language and tool. I'm open to new professional opportunities, collaborations, and creative projects.
+- **Languages:** PHP, Python, JavaScript (ES6+), TypeScript, SQL
+- **Frameworks & Libraries:**
+    - **Laravel Ecosystem:** Laravel, Livewire
+    - **Frontend:** Tailwind CSS, Alpine.js, Angular
+    - **Backend:** FastAPI, Hono
+- **Databases:** MySQL, PostgreSQL, Redis, SQLite, MongoDB
+- **Tooling & DevOps:** Docker, Git, GitHub Actions, CI/CD, Webpack, Vite
 
-## 🛠️ Tech Stack
+### What I Do
 
-- **Languages:** Python, NodeJS, PHP
-- **Approach:** Polyglot (right tool for the job!)
+-   💡 **Full-Stack Development:** Architecting and building complete web applications from concept to deployment.
+-   ⚡ **Interactive UIs:** Creating seamless and reactive user experiences with Livewire and Alpine.js.
+-   ⚙️ **API Development:** Designing and implementing scalable and secure RESTful APIs.
+-   🚀 **Rapid Prototyping:** Quickly validating ideas and building MVPs with Laravel or Node.js.
 
-## 📫 Where to Find Me
+### Let's Connect
 
-- Twitter: [@0xnbk](https://twitter.com/0xnbk)
+I'm always open to discussing new projects, collaborations, or interesting opportunities. Feel free to reach out!
 
+-   **Twitter:** [@0xnbk](https://twitter.com/0xnbk)
+-   **Huggingface:** [@0xnbk](https://huggingface.co/0xnbk)
 ---
 
-> “Great code knows no language—just clear thinking.”
+> "The best code is no code at all. The second best is simple, elegant, and easy to read."

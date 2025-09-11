@@ -29,6 +29,7 @@ While PHP and Laravel are my primary tools, I am a polyglot developer at heart, 
 
 I'm always open to discussing new projects, collaborations, or interesting opportunities. Feel free to reach out!
 
+- **Email:** hello [at] nbk [dot] email
 -   **Twitter:** [@0xnbk](https://twitter.com/0xnbk)
 -   **Huggingface:** [@0xnbk](https://huggingface.co/0xnbk)
 ---

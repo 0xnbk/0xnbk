@@ -1,6 +1,6 @@
 # Hi, I'm NBK 👋
 
-**Senior Software Engineer | Laravel & TALL Stack Specialist | Polyglot Developer**
+**Software Architect | Laravel & TALL Stack Specialist | Polyglot Developer**
 
 I am a results-oriented Software Engineer with a deep expertise in the Laravel ecosystem. My passion is building modern, dynamic, and scalable web applications, with a special focus on the **TALL (Tailwind CSS, Alpine.js, Laravel, Livewire)** stack.
 
